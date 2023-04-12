@@ -1,0 +1,19 @@
+td, th {
+    font-size: large;
+    border: 1px solid #ddd;
+    padding: 14px;
+    background-color: #f2f2f2;
+    color: #282c34;
+  }
+  
+tr:nth-child(even){background-color: #f2f2f2;}
+  
+/* tr:hover {background-color: #ddd;} */
+  
+th {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    text-align: center;
+    background-color: #4CAF50;
+    color: white;
+  }

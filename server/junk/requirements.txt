@@ -1,0 +1,6 @@
+rich
+pwinput
+pycryptodome
+flask
+flask_cors
+requests
